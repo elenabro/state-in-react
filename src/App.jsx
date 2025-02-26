@@ -4,6 +4,7 @@ import EventHandlerExample from './EventHandlerExample'
 import ControlledForm from './ControlledForm'
 import UncontrolledForm from './UncontrolledForm'
 import ValidatedForm from './ValidatedForm'
+import ReactValidatedForm from './ReactValidatedForm'
 
 
 function App() {
@@ -23,6 +24,9 @@ function App() {
 
     <hr/>
     <ValidatedForm /> 
+
+    <hr/>
+    <ReactValidatedForm />
 
       </div>
     
