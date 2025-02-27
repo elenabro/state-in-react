@@ -70,7 +70,7 @@ function ReactValidatedForm(){
                     type="text"
                     name="FirstName"
                     style = {{
-                        borderColor : 'green', 
+                        borderColor : 'black', 
                         borderWidth : '2px'}}
                     value={FirstName}
                     onChange={handleChange}
@@ -87,7 +87,7 @@ function ReactValidatedForm(){
                     type="text"
                     name="LastName"
                     style = {{
-                        borderColor : 'green', 
+                        borderColor : 'black', 
                         borderWidth : '2px'}}
                     value={LastName}
                     onChange={handleChange}
@@ -104,7 +104,7 @@ function ReactValidatedForm(){
                     type="text"
                     name="Phone"
                     style = {{
-                        borderColor : 'green', 
+                        borderColor : 'black', 
                         borderWidth : '2px'}}
                     value={Phone}
                     onChange={handleChange}
